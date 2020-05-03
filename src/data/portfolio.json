@@ -19,8 +19,8 @@
         "id": 3,
         "img": "DayPlanner.PNG",
         "title": "Day Planner",
-        "repo": "https://raquelacevedo.github.io/Day-Planner",
-        "url": "https://github.com/raquelacevedo/Day-Planner",
+        "repo": "https://github.com/raquelacevedo/Day-Planner",
+        "url": "https://raquelacevedo.github.io/Day-Planner",
         "description": "A calendar application that allows the user to save events for each hour of a 9-5 work day. Using JavaScript, jQuery, moment.js"
     },
     {
@@ -43,8 +43,8 @@
         "id": 6,
         "img": "ViewingParty.PNG",
         "title": "Viewing Party",
-        "repo": "https://github.com/eric-gustafson1/employee-directory",
-        "url": "https://fierce-bayou-43330.herokuapp.com",
+        "repo": "https://github.com/kjenkins5678/Viewing-Party",
+        "url": "https://floating-sea-89143.herokuapp.com/",
         "description": "A group project creation.  Viewing Party is a movie club app that allows users to share their love for movies.  Using Axios, Express, Ionic, MySQL, Passport, React Sequelize, Typescript and the TMDB Movie API to import movies."
     }
 ]
