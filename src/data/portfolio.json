@@ -29,7 +29,7 @@
         "title": "Fitness Tracker",
         "repo": "https://github.com/raquelacevedo/FitnessTracker",
         "url": "https://its-anotherfitnesstrackerapp.herokuapp.com",
-        "description": "The Fitness Tracker app allow you to be able to view create and track daily workouts. Users will be able to log multiple exercises in a workout on a given day. Users will also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, the app is able to track your distance traveled. Uses Express, MongoDb and Moongoose technologies."
+        "description": "The Fitness Tracker app allows the user to be able to view create and track daily workouts. Users will be able to log multiple exercises in a workout on a given day. Users will also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, the app is able to track your distance traveled. Uses Express, MongoDb and Moongoose technologies."
     },
     {
         "id": 5,
@@ -45,6 +45,6 @@
         "title": "Viewing Party",
         "repo": "https://github.com/eric-gustafson1/employee-directory",
         "url": "https://fierce-bayou-43330.herokuapp.com",
-        "description": "A group project React Movie Club app.  Using Axios, Express, Ionic, MySQL, Passport, Sequelize, Typescript and the TMDB Movie API to import movies."
+        "description": "A group project creation.  Viewing Party is a movie club app that allows users to share their love for movies.  Using Axios, Express, Ionic, MySQL, Passport, React Sequelize, Typescript and the TMDB Movie API to import movies."
     }
 ]
