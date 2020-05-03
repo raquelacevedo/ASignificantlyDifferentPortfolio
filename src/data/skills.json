@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "type": "Frontend Skills",
+        "skills": [
+            "React",
+            "HTML",
+            "CSS",
+            "Bootstrap",
+            "AJAX",
+            "JavaScript",
+            "Django",
+            "Ionic"
+        ]
+    },
+    {
+        "id": 2,
+        "type": "Backend Skills",
+        "skills": [
+            "Node.js",
+            "Express",
+            "Mongo/Mongoose",
+            "MySql/Sequelize",
+            "Rest APIs",
+            "JSON",
+            "Python",
+            "SQLServer",
+            "Oracle",
+            "Teradata",
+            "Posgres"
+        ]
+    },
+    {
+        "id": 3,
+        "type": "Tools & Methodologies",
+        "skills": [
+            "GitHub",
+            "Agile",
+            "Azure DevOps",
+            "NPM",
+            "SAP BO Report and Universe Development",
+            "SQL Server BI Development Studio",
+            "Ralph Kimball Data Warehouse Lifecycle Toolkit"
+        ]
+    },
+    {
+        "id": 4,
+        "type": "Certification & Credentials",
+        "skills": [
+            "BS Information Technology, George Mason University",
+            "Coding Bootcamp, George Washington University"
+        ]
+    }
+]

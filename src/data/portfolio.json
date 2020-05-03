@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "img": "WeatherDashboard.PNG",
+        "title": "Weather Dashboard",
+        "repo": "https://github.com/raquelacevedo/Weather-Dashboard",
+        "url": "https://raquelacevedo.github.io/Weather-Dashboard",
+        "description": "A weather dashboard app that allows users to input their selected cities from anywhere across the globe, calling to an API database and receiving various pieces of weather information. Also contains a 5 day forecast."
+    },
+    {
+        "id": 2,
+        "img": "PasswordGenerator.PNG",
+        "title": "Password Generator",
+        "repo": "https://github.com/raquelacevedo/Password-Generator",
+        "url": "https://raquelacevedo.github.io/Password-Generator",
+        "description": "A randomised password generator that asks the user various questions to perfect their desired password. Also contains a button to copy generated password to clipboard."
+    },
+    {
+        "id": 3,
+        "img": "DayPlanner.PNG",
+        "title": "Day Planner",
+        "repo": "https://raquelacevedo.github.io/Day-Planner",
+        "url": "https://github.com/raquelacevedo/Day-Planner",
+        "description": "A calendar application that allows the user to save events for each hour of a 9-5 work day. Using JavaScript, jQuery, moment.js"
+    },
+    {
+        "id": 4,
+        "img": "FitnessTracker.PNG",
+        "title": "Fitness Tracker",
+        "repo": "https://github.com/raquelacevedo/FitnessTracker",
+        "url": "https://its-anotherfitnesstrackerapp.herokuapp.com",
+        "description": "The Fitness Tracker app allow you to be able to view create and track daily workouts. Users will be able to log multiple exercises in a workout on a given day. Users will also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, the app is able to track your distance traveled. Uses Express, MongoDb and Moongoose technologies."
+    },
+    {
+        "id": 5,
+        "img": "FitnessApp.PNG",
+        "title": "Fitness App",
+        "repo": "https://github.com/kjenkins5678/Fitness-App2",
+        "url": "https://fierce-bayou-43330.herokuapp.com",
+        "description": "A group project creation. This is a fitness app designed to track your health!.  Using Express, Handlebars, JavaScript, MySQL, Passport and Sequelize."
+    },
+    {
+        "id": 6,
+        "img": "ViewingParty.PNG",
+        "title": "Viewing Party",
+        "repo": "https://github.com/eric-gustafson1/employee-directory",
+        "url": "https://fierce-bayou-43330.herokuapp.com",
+        "description": "A group project React Movie Club app.  Using Axios, Express, Ionic, MySQL, Passport, Sequelize, Typescript and the TMDB Movie API to import movies."
+    }
+]
