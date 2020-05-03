@@ -16,7 +16,7 @@ This is a professional portfolio created in React and provides an overview of my
 
 ## Technologies Used
 
-* Reeact
+* React
 * Axios
 * Font Awesome
 * reactstrap/bootswatch theme
