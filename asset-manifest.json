@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/asignificantlydifferentportfolio/static/css/main.bfc1d7a3.chunk.css",
+    "main.js": "/asignificantlydifferentportfolio/static/js/main.e65160c1.chunk.js",
+    "main.js.map": "/asignificantlydifferentportfolio/static/js/main.e65160c1.chunk.js.map",
+    "runtime-main.js": "/asignificantlydifferentportfolio/static/js/runtime-main.51c113ba.js",
+    "runtime-main.js.map": "/asignificantlydifferentportfolio/static/js/runtime-main.51c113ba.js.map",
+    "static/css/2.a900060b.chunk.css": "/asignificantlydifferentportfolio/static/css/2.a900060b.chunk.css",
+    "static/js/2.bef59acf.chunk.js": "/asignificantlydifferentportfolio/static/js/2.bef59acf.chunk.js",
+    "static/js/2.bef59acf.chunk.js.map": "/asignificantlydifferentportfolio/static/js/2.bef59acf.chunk.js.map",
+    "index.html": "/asignificantlydifferentportfolio/index.html",
+    "precache-manifest.b6cccf6968cbe36897190ff5e97381ec.js": "/asignificantlydifferentportfolio/precache-manifest.b6cccf6968cbe36897190ff5e97381ec.js",
+    "service-worker.js": "/asignificantlydifferentportfolio/service-worker.js",
+    "static/css/2.a900060b.chunk.css.map": "/asignificantlydifferentportfolio/static/css/2.a900060b.chunk.css.map",
+    "static/css/main.bfc1d7a3.chunk.css.map": "/asignificantlydifferentportfolio/static/css/main.bfc1d7a3.chunk.css.map",
+    "static/js/2.bef59acf.chunk.js.LICENSE.txt": "/asignificantlydifferentportfolio/static/js/2.bef59acf.chunk.js.LICENSE.txt",
+    "static/media/DayPlanner.PNG": "/asignificantlydifferentportfolio/static/media/DayPlanner.510a6441.PNG",
+    "static/media/FitnessApp.PNG": "/asignificantlydifferentportfolio/static/media/FitnessApp.4ba9fd1c.PNG",
+    "static/media/FitnessTracker.PNG": "/asignificantlydifferentportfolio/static/media/FitnessTracker.5f0d4c5b.PNG",
+    "static/media/PasswordGenerator.PNG": "/asignificantlydifferentportfolio/static/media/PasswordGenerator.e41691fe.PNG",
+    "static/media/RA_profilepic.png": "/asignificantlydifferentportfolio/static/media/RA_profilepic.43fffa43.png",
+    "static/media/RaquelEAcevedoResume.pdf": "/asignificantlydifferentportfolio/static/media/RaquelEAcevedoResume.80d54634.pdf",
+    "static/media/ViewingParty.PNG": "/asignificantlydifferentportfolio/static/media/ViewingParty.3666154b.PNG",
+    "static/media/WeatherDashboard.PNG": "/asignificantlydifferentportfolio/static/media/WeatherDashboard.09ccdddd.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51c113ba.js",
+    "static/css/2.a900060b.chunk.css",
+    "static/js/2.bef59acf.chunk.js",
+    "static/css/main.bfc1d7a3.chunk.css",
+    "static/js/main.e65160c1.chunk.js"
+  ]
+}
