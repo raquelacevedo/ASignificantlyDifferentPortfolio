@@ -3,7 +3,7 @@
 #### By Raquel Acevedo
 
 ## Description
-This is a professional portfolio created in React tht highlights my skills.  
+This is a professional portfolio created in React and provides an overview of my skills.  
 
 ## Setup/Installation Requirements
 
